@@ -1,0 +1,3 @@
+pandas
+openpyxl
+azure-storage-blob
